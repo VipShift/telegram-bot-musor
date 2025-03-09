@@ -19,6 +19,7 @@
   "homepage": "https://github.com/VipShift/telegram-bot#readme",
   "description": "",
   "dependencies": {
-    "dotenv": "^16.4.7"
+    "dotenv": "^16.4.7",
+    "telegraf": "^4.16.3"
   }
 }
